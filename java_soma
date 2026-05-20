@@ -1,6 +1,5 @@
 void main() {
 
-  // A coversão ainda é necessária para tipos numéricos
   int n1 = Integer.parseInt(IO.read1m("Digite o primeiro número:"));
   int n2 = Integer.parseInt(IO.readln("Digite o segundo número: "));
 
